@@ -112,3 +112,5 @@ o	Saree: ₹53,511 sales but almost breakeven (0.66% margin) — high revenue, n
 ## 🚧 Conclusion
 
 The business is growing sales in bursts (especially Nov–Mar) but is not consistently profitable: a third of transactions lose money, overall margin is under 6%, and two sub-categories (Tables, Electronic Games) actively destroy value. Electronics is the clear star — it beats target and carries decent margin — while Clothing drives volume but underdelivers on target and Furniture breaks even at best. The immediate priorities suggested by the data: fix or discontinue Tables and Electronic Games, investigate the Tamil Nadu/Punjab/Bihar loss-making regions, and replicate whatever worked in Nov 2018/Jan 2019/Mar 2019 to smooth out the weak months like July.
+
+<img width="1037" height="758" alt="image" src="https://github.com/user-attachments/assets/a7030ec2-b327-4c89-af59-052c99b49db3" />
